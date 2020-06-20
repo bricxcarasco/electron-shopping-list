@@ -1,0 +1,22 @@
+{
+  "name": "shopping-list",
+  "version": "1.0.0",
+  "description": "Electron Shopping List App",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bricxcarasco/electron-shopping-list.git"
+  },
+  "author": "Bricx Carasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bricxcarasco/electron-shopping-list/issues"
+  },
+  "homepage": "https://github.com/bricxcarasco/electron-shopping-list#readme",
+  "dependencies": {
+    "electron": "^9.0.4"
+  }
+}
